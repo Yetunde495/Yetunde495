@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 Welcomme to my Github Profile!
 
-<!--
-**Yetunde495/Yetunde495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yetunde Morenikeji, and I am a Web Developer and Technical Writer. 
 
-Here are some ideas to get you started:
+I am an ambitious and progress-focused web developer committed to proficient knowledge and usability of languages such as JavaScript, Bootstrap, Node.js, and PHP to develop custom-crafted and customer-focused websites and softwares. I possess problem-solving skills and strategic initiatives that helps me carry out my tasks effectively and efficiently. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills include: 
+-Website optimization and design
+-Front-End Web Development using Javascript and its front-end frameworks and libraries such as Bootstrap and React. 
+-Technical writing
+-Backend Web Development using Nodejs, Express.js, and PHP.
+
+
+
+- 👯 I am currently seeking internship opportunities to expand skills, and gain valuable real-world experience ...
+
+
+- 📫 How to reach me: Send me a mail at morenikejiy48@gmail.com
+
+- ⚡ Fun fact: I love food! A whole lotttt
+
