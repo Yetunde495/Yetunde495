@@ -10,13 +10,6 @@ I also possess in-depth knowledge of setting up various database models, and per
 
 
 
-
-My skills include: 
--Website optimization and design
--Front-End Web Development using Javascript and its front-end frameworks and libraries such as Bootstrap and React. 
--Technical writing
--Backend Web Development using Nodejs, Express.js, and PHP.
-
 I am open to learning, and relatively skilled at prioritizing and managing projects with proficiency.  I possess problem-solving skills and strategic initiatives that helps me carry out my tasks effectively and efficiently. 
 
 
