@@ -1,23 +1,31 @@
 ### Hi there 👋 Welcome to my Github Profile!
 
-I'm Yetunde Morenikeji, and I am a Frontend Web Developer and Technical Writer. 
+I’m Yetunde Morenikeji, a Senior Frontend Developer and Technical Writer with 5+ years of experience crafting modern, high-performing, and user-focused web applications.
 
-I am an ambitious and progress-focused frontend web developer committed to efficient implementation of responsive and seamless UI designs, consuming APIs and database management. 
+I specialize in turning complex ideas into intuitive, elegant, and accessible user experiences — from creating custom UI components to simplifying challenging UX flows for maximum clarity and engagement.
 
-With over 2 years commercial experience in knowledge and usability of frontend tools such as Reactjs, Javascript, CSS, Typescript, Tailwind, Bootstrap and Nextjs, I am sure to deliver well-developed custom-crafted and customer-focused websites and web apps. I also have basic knowledge of Nodejs.
+My focus is always on what the end-user sees and feels: smooth interactions, fast performance, and interfaces that feel natural to use. Whether I’m designing from scratch or optimizing existing systems, I bring both precision in code and care in design to deliver results clients are proud to launch.
 
-I also possess in-depth knowledge of setting up various database models, and performing CRUD operations on databases such as Firebase/Firestore, MongpDB and SQLite.
+What I bring to the table:
+
+Custom, reusable components tailored to business needs — not cookie-cutter templates
+
+Streamlined UX flows that make even complex features feel effortless
+
+Pixel-perfect UI implementation that remains consistent across devices
+
+Scalable, maintainable architecture for long-term product growth
+
+Clear technical documentation to help teams and clients work more efficiently
+
+Tech Stack & Tools I Work With
+React.js | Next.js | TypeScript | JavaScript | TailwindCSS | CSS3 | HTML5 | Bootstrap | Node.js (basic) | Firebase | MongoDB | SQLite | Framer Motion | Web Sockets
+
+💼 Open to collaborations, consulting, and contract roles — especially projects where UI/UX quality is a priority.
+
+📫 Reach me at: morenikejiy48@gmail.com
+
+⚡ Fun fact: I’m convinced that great design and good food share the same rule — presentation matters.
 
 
-
-I am open to learning, and relatively skilled at prioritizing and managing projects with proficiency.  I possess problem-solving skills and strategic initiatives that helps me carry out my tasks effectively and efficiently. 
-
-
-
-- 👯 I am currently seeking job role opportunities to expand skills, and gain valuable real-world experience ...
-
-
-- 📫 How to reach me: Send me a mail at morenikejiy48@gmail.com
-
-- ⚡ Fun fact: I love food! A whole lotttt
 
